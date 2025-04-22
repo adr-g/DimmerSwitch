@@ -1,4 +1,4 @@
-# DimmerSwitch
+# DimmerSwitch-DEMO
 
 DimmerSwitch is a browser extension that lets you adjust the brightness of any website.
 
