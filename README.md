@@ -16,4 +16,4 @@ Sometimes the web is just too bright. This extension gives you a quick way to di
 
 ## Status
 
-Work in progress!
+[Work in progress!](https://github.com/ASGA-RD/DimmerSwitch)
